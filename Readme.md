@@ -351,7 +351,7 @@ docker system COMMAND
 
 `Dockerfile` может содержать следующие инструкции:
 
-```
+```Dockerfile
 # Основные
 # FROM - родительский образ
 FROM <image>[:<tag>] [AS <name>]
